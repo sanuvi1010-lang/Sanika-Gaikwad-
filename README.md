@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=TechVerse%20Studio&fontSize=40&animation=fadeIn" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=TechVerse%20Studio&fontSize=40&animation=fadeIn" width="100%" />/div>
 
 <br>
 
