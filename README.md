@@ -1,12 +1,14 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=TechVerse%20Studio&fontSize=40&animation=fadeIn" width="100%" />/div>
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=TechVerse%20Studio&fontSize=40&animation=fadeIn" width="100%" />
+</div>
 
 <br>
+
+<div align="center">
 
 # 🚀 TechVerse Studio
 
 ### Where Ideas Become Real-World Solutions
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&width=700&lines=AI+%7C+Software+%7C+IoT+Innovation;Building+Future+Ready+Digital+Solutions;Turning+Ideas+Into+Real+World+Products" />
 
 </div>
